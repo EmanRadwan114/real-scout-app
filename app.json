@@ -9,10 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true,
-      "config": {
-        "googleMapsApiKey": "AIzaSyB8VPrSQrrK9zJp-zNz8B2BerjI8z_2u9M"
-      }
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
@@ -21,12 +18,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.realestate",
-      "config": {
-        "googleMaps": {
-          "apiKey": "AIzaSyB8VPrSQrrK9zJp-zNz8B2BerjI8z_2u9M"
-        }
-      }
+      "package": "com.anonymous.realestate"
     },
     "web": {
       "output": "static",
