@@ -6,7 +6,17 @@ A cross-platform **mobile application** for browsing, searching, and managing re
 
 ## 📹 Demo
 
-![App Demo](./src/assets/real-estate-expo-app.mp4)
+### Option 1 Demo
+
+![App Demo](assets/demo.gif)
+
+> Replace `assets/demo.gif` with the path to your GIF version of the demo.
+
+### Option 2: Hosted Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/J_-jsKoLZbw/0.jpg)](https://youtube.com/shorts/J_-jsKoLZbw?feature=share)
+
+> Replace `YOUR_VIDEO_ID` with your YouTube or Vimeo video ID.
 
 ---
 
