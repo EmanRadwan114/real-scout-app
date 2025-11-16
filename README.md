@@ -5,14 +5,7 @@ A cross-platform **mobile application** for browsing, searching, and managing re
 ---
 
 ## 📹 Demo
-
-<details>
-  <summary>Real Scout Demo</summary>
-    <video controls width="720" height="405">
-      <source src="./src/assets/real-estate-expo-app.mp4" type="video/mp4" />
-      Your browser does not support the video tag. You can watch the demo on YouTube
-    </video>
-</details>
+https://github.com/user-attachments/assets/fa9c70bd-fb01-414a-93a6-ae62ffb95a24
 
 ---
 
