@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/fa9c70bd-fb01-414a-93a6-ae62ffb95a24
 
 - **Frontend:** React Native (Expo)
 - **Backend:** Appwrite (Authentication, Database, Storage)
-- **Navigation:** React Navigation
+- **Navigation:** Expo Router
 - **State Management:** React Context API
 - **Styling:** NativeWind
 
