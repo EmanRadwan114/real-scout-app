@@ -32,13 +32,12 @@ https://github.com/user-attachments/assets/fa9c70bd-fb01-414a-93a6-ae62ffb95a24
 ```
 
 /src
-/app
-/assets
-/components
-/constants
-/context
-/hooks
-/lib
-/utils
-
+ /app
+ /assets
+ /components
+ /constants
+ /context
+ /hooks
+ /lib
+ /utils
 ```
